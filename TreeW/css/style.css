@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: rgb(38, 37, 37);
+    color: white;
+    padding: 1px;
+}
+ul li{
+    list-style-type: none;
+    font-size: 80%;
+    display: inline;
+    margin: 5px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.nav1{
+    background-color: rgb(64, 220, 252);
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+button{
+    background-color: rgb(241, 110, 87);
+    color: white;
+    border: 1px solid rgb(241, 110, 87);
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px 20px
+}
+.nav2{
+    text-align: center;
+    background-color: rgb(217, 224, 224);
+    padding: 25px;
+}
+.nav3{
+    text-align: center;
+    padding: 35px;
+}
+.nav2 p{
+    font-size: 80%;
+}
+footer{
+    background-color: rgb(38, 37, 37);
+    color: white;
+    text-align: center;
+    padding: 50px;
+    font-size: 80%;
+}
